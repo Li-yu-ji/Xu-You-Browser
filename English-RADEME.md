@@ -1,4 +1,4 @@
-# XunYou Browser
+# XunYou Browser [中文](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/README.md) [English](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/English-RADEME.md) [日本語](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/Japan-RADEME.md)
 
 ## Project Overview
 XunYou Browser is a lightweight and efficient web browser implemented in Python, designed to provide users with a fast and smooth browsing experience.
