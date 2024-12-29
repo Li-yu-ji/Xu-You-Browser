@@ -1,4 +1,4 @@
-# 迅遊ブラウザ
+# 迅遊ブラウザ [中文](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/README.md) [English](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/English-RADEME.md) [日本語](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/Japan-RADEME.md)
 
 ## プロジェクト概要
 迅遊ブラウザは、Pythonで実装された軽量で効率的なウェブブラウザです。ユーザーに迅速かつスムーズなブラウジング体験を提供することを目的としています。
