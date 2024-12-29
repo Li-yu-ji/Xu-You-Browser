@@ -12,6 +12,7 @@
 - Python 3.6+
 - PyQt5
 - QtWebEngine
+- requirements.txt
 
 ## 使用方法
 1. 安装所需依赖：
