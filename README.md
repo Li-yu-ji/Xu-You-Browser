@@ -1,4 +1,4 @@
-# 迅游浏览器 [中文](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/README.md)
+# 迅游浏览器 [中文](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/README.md) [English](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/English-RADEME.md) [日本語](https://github.com/Li-yu-ji/Xu-You-Browser/blob/main/Japan-RADEME.md)
 
 这是一个使用Python开发的迅游浏览器项目，旨在提供一个轻量级、快速的网页浏览体验。
 
