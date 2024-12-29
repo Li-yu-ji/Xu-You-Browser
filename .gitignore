@@ -1,0 +1,4 @@
+# 忽略dist目录
+dist/
+__pycache__/
+*.pyc
