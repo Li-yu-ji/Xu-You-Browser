@@ -19,3 +19,6 @@
 
 2. 运行程序：
 `python main.py`
+
+许可证:
+MIT
